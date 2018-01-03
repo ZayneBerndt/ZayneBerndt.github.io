@@ -15,7 +15,7 @@ To-do lists are notorious for collecting junk: to-do items that you want to reme
 
 Knocitoff will aim to keep to-do lists manageable by automatically deleting to-do items that have not been completed after seven days. The hypothesis is that if the to-do item is not important enough to be completed in seven days, it doesn't belong on your to-do list.
 
-Being only my second app ever developed I wanted to cement functionality learnt previously
+Being only my second app ever developed I wanted to cement functionality learnt previously in <strong>[Blocipedia](../blocipedia/)</strong>.
 
 ## Problem
 
