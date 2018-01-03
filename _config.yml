@@ -12,7 +12,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Junior Full Stack Developer</h1>
-     <p> AngularJS, Rails, JQuery, Javascript, Firebase.</p>
+     <p> AngularJS, Ruby, Rails, JQuery, SQL, Javascript, Firebase.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -25,9 +25,9 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: ZayneBerndt
   google_plus:
-  instagram: www.instagram.com/zayneberndt
+  instagram: zayneberndt
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -35,7 +35,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: zayneberndt
   wordpress:
   youtube:
 

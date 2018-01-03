@@ -7,7 +7,7 @@ short-description: A real-time chat client using AngularJS and Firebase.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc_jams_logo.jpg)
+![]({{ site.baseurl }}/img/blocchat-LOGO.jpg)
 
 ## Explanation
 Welcome to **Bloc Chat**, a real-time chat client. An app that builds on my previous knowledge of **AngularJS** and introduces me to googles' **firebase** realtime database. A tool that I have grown to love!
@@ -108,6 +108,6 @@ function Message($firebaseArray) {
 
 <img src="/img/bloc-chat-done.png">
 
-## Tools Used
+## Languages and Tools Used
 
 FirebaseAngular, AngularJS, UI Bootstrap, HTML, CSS

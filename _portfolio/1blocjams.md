@@ -154,5 +154,5 @@ var setSong = function(song) {
 <img src="/img/blocJams_cover.png" alt="play button on hover">
 <img src="/img/lilblocjamz.png" alt="play button on hover">
 
-## Tools Used
+## Languages and Tools Used
 JavaScript, AngularJS, HTML, CSS, Git
