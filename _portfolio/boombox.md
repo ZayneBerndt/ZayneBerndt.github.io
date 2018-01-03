@@ -10,14 +10,14 @@ short-description: Bömbox allows you to carry your personal album in your pocke
 ![]({{ site.baseurl }}/img/Boombox.png)
 
 ## Explanation
-Welcome to Bömbox. Work in Progress, Bömbox is my capstone project where by I collaborate with a designer, engineer and a business associate.  As a team of four, the aim is to take our product to the market. We each play a unique role in working on our project to each develop individual skills as well as push each other forward as a team.
+Welcome to Bömbox. Work in Progress, Bömbox is my capstone project where by I collaborate with a designer, engineer and a business associate.  As a team of four, the aim is to take our product to the market. We each play a unique role in working on Bömbox to develop individual skills as well as push each other forward as a team.
 
 
 ## Aim
 
 As a leading hand in the project I am responsible for driving the team forward on initiatives trying to incorporate as much Agile methodologies where possible as well as other project management tools trying to emulate a real working life environment.  
 
-Having no previous working experience of working in a development team my main focus of this project is to collaborate with designers and other developers to experience and work toward efficient work flows, build up confidence, understand more of the design workflow and teach myself how to best cross communicate as part of a working dev team.
+My main focus of this project is to collaborate with designers and other developers to experience and work toward efficient work flows, build up confidence, understand more of the design workflow and teach myself how to best cross communicate as part of a working dev team.
 
 ## Solution
 <strong>1. Set up working environment</strong>
@@ -56,7 +56,7 @@ Once we agreed on our initial design of the app we put together our "look". This
 
 ## Conclusion
 
-Even though the project is in the early stages the knowledge and experience of working with a team remotely has proven invaluable and I feel there is allot of skill that is transferable for future team work. 
+Even though the project is in the early stages the knowledge and experience of working with a team remotely has proven invaluable and I feel there is allot of skill that is transferable for future team work.
 
 
 ## Languages and Tools
