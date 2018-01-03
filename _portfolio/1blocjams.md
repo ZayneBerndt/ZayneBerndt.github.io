@@ -11,14 +11,14 @@ short-description: A digital music player like Spotify developed to learn fronte
 
 ## Explanation
 
-Welcome to **Bloc Jams**, a digital music player like Spotify that I used to learn frontend web development. My main focus was to learn responsive development using **CSS** and interactivity with **JavaScript DOM Scripting**. Once I had completed I had used the same project to learn **Angular JavaScript** framework by refactoring my existing code.
+Welcome to **Bloc Jams**, a digital music player like Spotify that I developed to learn frontend web development. My main focus was to learn responsive development using **CSS** and interactivity with **JavaScript DOM Scripting**. Once I had completed I had used the same project to learn **Angular JavaScript** framework by refactoring my existing vanilla JavaScript code.
 
 ## Problem
 
 I needed to challenge myself technically so focused on the most demanding aspects of a music player the PLAY / PAUSE and SKIP features. My primary aims were to make the code functional, then refactor to a DRY state but also set myself up to a position where I am able to refactor into AngularJS. So clear, understandable well commented code was important.  
 
 ## Solution
-Highlighted below were some stand out areas that closely matched my focus points and key concepts I wanted to achieve from developing Bloc Jams in vanilla JS and AngularJS
+Highlighted below were some stand out areas that closely matched my focus points and key concepts I wanted to achieve from developing Bloc Jams in vanilla JavaScript and AngularJS
 
 <h4>1. Event Delegation</h4>
 
@@ -49,11 +49,11 @@ window.onload = function() {
   }
 ```
 <h4>2. Play/Pause Method</h4>
- I needed to implement code to allow for:
-* a click on a song number to play it and for the number to change to a pause btn,
-* when the mouse leaves the pause btn to remain,
-* when a song changes the previous playing song should revert content back to song the number.
-* when we hover over other songs while current song is playing, the play btn should appear whilst not altering the current playing song.
+ I needed to implement code to allow for the following actions:
+* A click on a song number to play it and for the number to change to a pause button,
+* When the mouse leaves, the pause button should remain,
+* When a song changes, the previous playing song should revert content back to the song number.
+* When we hover over other songs while the current song is playing, the play button should appear whilst not altering the current playing song.
 
 <img src="https://bloc-global-assets.s3.amazonaws.com/images-frontend/screenshots/27-dom-scripting-play-pause-2/play_on_hover.gif" alt="play button on hover">
 
@@ -103,7 +103,7 @@ var clickHandler = function() {
 
 <h4>3. Refactor to AngularJS</h4>
 
-The most exciting part was putting JS to use in a framework. My biggest take aways from refactoring to AngularJS was the importance of clear and well commented code for future work. In addition leaning how to use Routing and States was particularly useful when working out which functionalities would be be implemented as Services or Controllers.
+The most exciting part was putting JS to use in a framework. My biggest take aways from refactoring to AngularJS was the importance of clear and well commented code for future work. In addition learning how to use Routing and States was particularly useful when working out which functionalities would be be implemented as Services or Controllers.
 
 
 ```js
@@ -149,7 +149,7 @@ var setSong = function(song) {
 
 
 ```
-## Results
+## Result
 
 <img src="/img/blocJams_cover.png" alt="play button on hover">
 <img src="/img/lilblocjamz.png" alt="play button on hover">
