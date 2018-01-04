@@ -14,7 +14,7 @@ Welcome to **Bloc Chat**, a real-time chat client. An app that builds on my prev
 
 
 
-## Problem
+## Challenge
 Having only used AngularJS once before in my <strong>[BlocJams](../1blocjams/)</strong> project I wanted to explore more of which services are best to use with controllers for specific functionality. This app is also the first time I am using googles realtime database "firebase".
 
 

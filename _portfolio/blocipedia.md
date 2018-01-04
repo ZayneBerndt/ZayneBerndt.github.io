@@ -13,7 +13,7 @@ short-description: A production quality SaaS app that allows users to create the
 
 Wikis are a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project, I have build an app that lets users create their own wikis and share them publicly or privately with other collaborators. As my first ever application I used this project to get familiar with MVC architecture and understand Ruby, Rails, PostgreSQL, HTML and CSS. It was also a great chance to get to grips with github and the command line.
 
-## Problem
+## Challenge
 Below I wanted to demonstrate areas that I haven't developed in my other apps mainly focusing on demonstrating Test Driven Development and
 and functionality that exposed me to greater usage of function syntax.
 

@@ -13,7 +13,7 @@ short-description: A digital music player like Spotify developed to learn fronte
 
 Welcome to **Bloc Jams**, a digital music player like Spotify that I developed to learn frontend web development. My main focus was to learn responsive development using **CSS** and interactivity with **JavaScript DOM Scripting**. Once I had completed I had used the same project to learn **Angular JavaScript** framework by refactoring my existing vanilla JavaScript code.
 
-## Problem
+## Challenge
 
 I needed to challenge myself technically so focused on the most demanding aspects of a music player the PLAY / PAUSE and SKIP features. My primary aims were to make the code functional, then refactor to a DRY state but also set myself up to a position where I am able to refactor into AngularJS. So clear, understandable well commented code was important.  
 
