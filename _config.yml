@@ -15,7 +15,7 @@ theme_settings:
      <p> AngularJS, Ruby, Rails, JQuery, SQL, Javascript, Firebase.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+  #  Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
