@@ -3,15 +3,12 @@ layout: post
 title: Firebase Realtime Database
 feature-img: "img/sample_feature_img.png"
 ---
-I've used Firebase in a few of my projects, Along the way I’ve learned some lessons about how best to use the platform to meet my needs. Firebase is a document-oriented / NoSQL database, and thus shares many of the characteristics of those platforms, but also has some unique traits of its own to learn. Here’s a quick brain-dump of what I have discovered along the way.
+I've used Firebase in a few of my projects, along the way I’ve learned some lessons about how best to use the platform to meet my needs. Firebase is a document-oriented / NoSQL database and thus shares many of the characteristics of those platforms but also has some unique traits of its own to learn. Here’s a quick brain-dump of what I have discovered along the way.
 
 <h4><strong>RTM!</strong></h4>
 SDK documentation is usually terrible, so many of us tend to skim for the high points and return to it later (or never).
-The opposite is true here. The Guides and Samples are easy to follow, and the Reference docs are both thorough and deceptively brief. Almost every time our team had a question or issue, we found the solution in something we missed in the docs. We ultimately sat down and read every word straight through, and it was 3 hours well spent.
+The opposite is true here. The Guides and Samples are easy to follow and the Reference docs are both thorough and deceptively brief. Almost every time I had a question or issue, I found the solution in something I missed in the docs. I ultimately sat down and read every word straight through, and it was 3 hours well spent.
 
-It is a common misconception that document-oriented databases make up-front planning about how data will be structured less important. This is a myth. If anything, we have found the opposite: they require more.
-
-There is nothing unusual about saying good planning can help squeeze the most performance out of any software component. But in SQL databases it’s usually straightforward to fix planning mistakes either by just joining more tables, doing sub-queries, or doing bulk data updates. Since Firebase doesn’t have these concepts, take the time to sit down and actually model your data and access patterns ahead of time. You’ll be glad you did.
 
 <h4><strong>Corollary: “Schema-less” does not mean brain-less! </strong></h4>
 
@@ -49,6 +46,6 @@ There’s a big difference between SET and UPDATE operations. It affects what ha
 <h4><strong>FirebaseUI is awesome!</strong></h4>
 Oh I should mention, there are FirebaseUI companion projects for a lot of platforms. Use them. They’re incredibly helpful for things like setting up a tableview to display a list of objects in a Firebase collection.
 
-This library provides FUICollectionViewDataSource and FUITableViewDataSource classes (and their equivalents on Android) that make getting started on a mobile platform just a few lines of code. 
+This library provides FUICollectionViewDataSource and FUITableViewDataSource classes (and their equivalents on Android) that make getting started on a mobile platform just a few lines of code.
 
 When you’re ready for more sophistication and control, FirebaseUI is still useful because it also provides the lower-level data collection classes FUIArray and FUIIndexArray that let you drive things like tab headers and other oddball displays.
