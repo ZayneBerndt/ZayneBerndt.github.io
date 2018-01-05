@@ -66,7 +66,7 @@ RSpec.configure do |config|
 ```
 <strong>2.  Create the items. </strong>
 
-The items were important as they had to reflect association with the user and course had the two actions of "create" and "destroy". Below is both the Items Controller and User Controller demonstrating association with each other.
+The items were important as they had to reflect association with the user and of course had the two actions of "create" and "destroy". Below is both the Items Controller and User Controller demonstrating association with each other.
 ```ruby
 class ItemsController < ApplicationController
 before_action :authenticate_user!
