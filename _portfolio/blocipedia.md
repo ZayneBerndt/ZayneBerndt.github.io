@@ -14,15 +14,14 @@ short-description: A production quality SaaS app that allows users to create the
 Wikis are a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project, I have build an app that lets users create their own wikis and share them publicly or privately with other collaborators. As my first ever application I used this project to get familiar with MVC architecture and understand Ruby, Rails, PostgreSQL, HTML and CSS. It was also a great chance to get to grips with github and the command line.
 
 ## Challenge
-Below I wanted to demonstrate areas that I haven't developed in my other apps mainly focusing on demonstrating Test Driven Development and
-and functionality that exposed me to greater usage of function syntax.
+Below I wanted to demonstrate areas that I haven't developed in my other apps mainly focusing on demonstrating Test Driven Development and functionality that exposed me to greater usage of function syntax.
 
 
 ## Solution
 
 <strong>1. Test Driven Development</strong>
 
-I have learnt the importance of using a TDD approach to development, in the project of the many testing frameworks available I chose to use RSpec due to it being a canonical framework, and thus the most likely framework to encounter as a professional Rails developer.
+I have learnt the importance of using a TDD approach to development. In the project, of the many testing frameworks available I chose to use RSpec due to it being a canonical framework and thus the most likely framework to encounter as a professional Rails developer.
 
 As with my other model testing, the tests below test for field validation and attributes.
 
@@ -157,4 +156,4 @@ end
 
 
 ## Languages and Tools
-Ruby/Rails, RSpec (testing), PostgreSQL, Stripe (payment), HTML5(ERB), Sass, Javascript, jQuery
+Ruby on Rails, RSpec (testing), PostgreSQL, Stripe (payment), HTML5, Sass, Javascript, jQuery
